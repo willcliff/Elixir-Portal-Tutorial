@@ -1,6 +1,6 @@
 # Portal
-
-**TODO: Add description**
+An Elixir project based on the [Portal tutorial](https://howistart.org/posts/elixir/1).
+Here we use the Elixir programming language to build portals by shooting doors of different colors and transferring data between them. We will even learn how we can distribute doors across different machines in our network.
 
 ## Installation
 
